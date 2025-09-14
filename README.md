@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vasilis</h1>
-<h3 align="center">Final-year Computer Science student with a passion in software engineering</h3>
+<h3 align="center">BSc in Computer Science with a passion in software engineering</h3>
 
 - I’m currently working on [FridgeChef](https://github.com/VasilisVas1/FridgeChef)
 
