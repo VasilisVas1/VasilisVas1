@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vasilis</h1>
 <h3 align="center">BSc in Computer Science with a passion in software engineering</h3>
 
-- I’m currently working on [FridgeChef](https://github.com/VasilisVas1/FridgeChef)
+- I have developed [FridgeChef](https://github.com/VasilisVas1/FridgeChef)
 
 - I have worked on [Randomness Entropy Calculator](https://github.com/VasilisVas1/Python-Programs)
 
