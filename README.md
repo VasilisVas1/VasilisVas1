@@ -2,7 +2,7 @@
 <h3 align="center">BSc in Computer Science — Machine Learning & Deep Learning</h3>
 
 <p align="center">
-  I am a Computer Science graduate with a focus on machine learning and deep learning, particularly in medical imaging and computer vision. I enjoy building end-to-end ML projects that go beyond a single accuracy number — understanding why models work, when they fail, and how to make them more reliable.
+  I am a Computer Science graduate with a focus on machine learning and deep learning. I enjoy building end-to-end ML projects that go beyond a single accuracy number — understanding why models work, when they fail, and how to make them more reliable.
 </p>
 
 ---
