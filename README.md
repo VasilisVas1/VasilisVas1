@@ -9,7 +9,9 @@
 
 ### Machine Learning Projects
 
-- **[Pneumonia Detection from Chest X-Rays](https://github.com/VasilisVas1/chest-xray-pneumonia-cnn-study)** — Experimental comparison of CNN, EfficientNet-B0, and DenseNet-121 across 15 independent training runs. Includes class weighting, threshold optimization, and Grad-CAM visualization. DenseNet-121 achieved 89.6% accuracy and 80.4% Normal Recall.
+- **[Pneumonia Detection from Chest X-Rays](https://github.com/VasilisVas1/chest-xray-pneumonia-cnn-study)** — Experimental comparison of Simple CNN, EfficientNet-B0, and DenseNet-121. Includes class weighting, threshold optimization, and Grad-CAM visualization. DenseNet-121 achieved 89.6% accuracy and 80.4% Normal Recall.
+
+- **[Pokemon Battle Outcome Prediction](https://github.com/VasilisVas1/pokemon-battle-prediction)** — A comprehensive machine learning project that predicts Pokemon battle outcomes using statistical analysis and advanced feature engineering techniques.
 
 ---
 
