@@ -18,6 +18,7 @@
 ### Other Projects
 
 - **[FridgeChef](https://github.com/VasilisVas1/FridgeChef)** — Recipe suggestion app based on available ingredients
+- **[Youtube Channel Scraper](https://github.com/nikosgravos/yt-creator-scraper)** - Scrape YouTube creators by niche with ViewStats integration
 - **[Randomness Entropy Calculator](https://github.com/VasilisVas1/Python-Programs)** — Python utility for computing entropy metrics
 - **[Brackeys Game Jam 2025.1](https://github.com/VasilisVas1/Brackeys_GameJam)** — Game developed for the Brackeys Game Jam
 
