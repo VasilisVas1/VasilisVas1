@@ -86,19 +86,20 @@ CNN vs EfficientNet-B0 vs DenseNet-121, with class weighting, threshold optimiza
 
 </td>
 
-
 <td width="50%" valign="top">
 
 **[YouTube Scraper](https://github.com/nikosgravos/yt-creator-scraper)**
 
-Scrape YouTube creators by niche with ViewStats integration – collect channel data, stats, and analytics for any topic.
+Scrape YouTube creators by niche with ViewStats integration — collect channel data, stats, and analytics for any topic.
 
 <img src="https://img.shields.io/github/languages/top/nikosgravos/yt-creator-scraper?style=flat-square&color=00F7FF" />
 <img src="https://img.shields.io/github/stars/nikosgravos/yt-creator-scraper?style=flat-square&color=FFD700" />
 <img src="https://img.shields.io/github/last-commit/nikosgravos/yt-creator-scraper?style=flat-square&color=blueviolet" />
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 **[Pokemon Battle Outcome Prediction](https://github.com/VasilisVas1/pokemon-battle-prediction)**
@@ -110,8 +111,7 @@ Statistical analysis + advanced feature engineering to predict Pokemon battle ou
 <img src="https://img.shields.io/github/last-commit/VasilisVas1/pokemon-battle-prediction?style=flat-square&color=blueviolet" />
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 
 **[FridgeChef](https://github.com/VasilisVas1/FridgeChef)**
@@ -123,6 +123,9 @@ Recipe suggestion app based on whatever's actually in your fridge.
 <img src="https://img.shields.io/github/last-commit/VasilisVas1/FridgeChef?style=flat-square&color=blueviolet" />
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 **[Brackeys Game Jam 2025.1](https://github.com/VasilisVas1/Brackeys_GameJam)**
@@ -134,9 +137,12 @@ Built under a tight deadline — proof that agents need downtime too.
 <img src="https://img.shields.io/github/last-commit/VasilisVas1/Brackeys_GameJam?style=flat-square&color=blueviolet" />
 
 </td>
+
+<td width="50%" valign="top">
+
+</td>
 </tr>
 </table>
-
 ---
 
 ### GitHub Stats
@@ -145,11 +151,6 @@ Built under a tight deadline — proof that agents need downtime too.
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&color=00F7FF&query=public_repos&url=https://api.github.com/users/VasilisVas1&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Followers&color=00F7FF&query=followers&url=https://api.github.com/users/VasilisVas1&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Account%20Created&color=00F7FF&query=created_at&url=https://api.github.com/users/VasilisVas1&logo=github&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/VasilisVas1/chest-xray-pneumonia-cnn-study?style=for-the-badge&label=⭐%20Pneumonia%20CNN&color=1C3C3C" />
-  <img src="https://img.shields.io/github/stars/VasilisVas1/pokemon-battle-prediction?style=for-the-badge&label=⭐%20Pokemon%20ML&color=1C3C3C" />
 </p>
 
 ---
