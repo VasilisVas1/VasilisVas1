@@ -85,6 +85,20 @@ CNN vs EfficientNet-B0 vs DenseNet-121, with class weighting, threshold optimiza
 <img src="https://img.shields.io/github/last-commit/VasilisVas1/chest-xray-pneumonia-cnn-study?style=flat-square&color=blueviolet" />
 
 </td>
+
+
+<td width="50%" valign="top">
+
+**[YouTube Scraper](https://github.com/nikosgravos/yt-creator-scraper)**
+
+Scrape YouTube creators by niche with ViewStats integration – collect channel data, stats, and analytics for any topic.
+
+<img src="https://img.shields.io/github/languages/top/nikosgravos/yt-creator-scraper?style=flat-square&color=00F7FF" />
+<img src="https://img.shields.io/github/stars/nikosgravos/yt-creator-scraper?style=flat-square&color=FFD700" />
+<img src="https://img.shields.io/github/last-commit/nikosgravos/yt-creator-scraper?style=flat-square&color=blueviolet" />
+
+</td>
+
 <td width="50%" valign="top">
 
 **[Pokemon Battle Outcome Prediction](https://github.com/VasilisVas1/pokemon-battle-prediction)**
